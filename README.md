@@ -11,3 +11,4 @@ Repo for Group 3 of CSC510 Fall 2022 - Palash Rathod, Shreya Maheshwari, Kartik 
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/kartikson1/Group3-CSC510-Fall22)
 ![GitHub last commit](https://img.shields.io/github/last-commit/kartikson1/Group3-CSC510-Fall22)
 [![DOI](https://zenodo.org/badge/529980851.svg)](https://zenodo.org/badge/latestdoi/529980851)
+![GitHub forks](https://img.shields.io/github/forks/kartikson1/Group3-CSC510-Fall22?style=social)
